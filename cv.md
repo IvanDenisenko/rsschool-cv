@@ -31,3 +31,9 @@ Specialty: Automated systems information processing  (2017—2021).</br>
 
 English level: **A2+**
 
+[1]:https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit
+[2]: https://stepik.org/cert/807887
+[3]: https://stepik.org/cert/865191
+[4]:https://stepik.org/cert/807887
+[5]:  https://ivandenisenko.github.io/1stWebSite/
+[6]: https://ivandenisenko.github.io/2ndWebSite/
