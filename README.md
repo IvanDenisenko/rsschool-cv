@@ -1,1 +1,1 @@
-https://IvanDenisenko.github.io/rsschool-cv/
+https://IvanDenisenko.github.io/rsschool-cv/index
