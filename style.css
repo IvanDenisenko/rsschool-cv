@@ -36,6 +36,12 @@ nav {
 }
 li{
     list-style-type: none;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    color: #2F2F2F;
+    line-height: 40px;    
 }
 
 mark{
@@ -73,7 +79,7 @@ img{
     padding-bottom: 52px;
 }  
 
-.about_message {
+h2 {
     font-family: 'Cormorant Garamond', serif;
     font-weight: 500;
     font-size: 72px;
@@ -160,7 +166,7 @@ border-bottom: 2px solid currentColor;
     margin-right: auto;
     /* padding-top: 32px; */
 }
-.work_href{
+h3{
     font-family: Cormorant Garamond;
     font-style: normal;
     font-weight: normal;
@@ -189,7 +195,7 @@ border-bottom: 2px solid currentColor;
     height: 914px;
 }
 
-.edu_href{
+h4{
     font-family: Cormorant Garamond;
     font-style: normal;
     font-weight: normal;
@@ -206,4 +212,22 @@ border-bottom: 2px solid currentColor;
     line-height: 114%;
     color: #000000;
     padding-right: 222px;
+}
+.social {
+    list-style-type: none;
+    padding-left: 0;
+    display: flex;
+    width: 1145px;
+    /* align-items: center; */
+    height: 52px;
+    margin: auto;
+    padding-top: 12px;
+    padding-left: 33px;
+    background-color: #F5F5F5;
+}
+
+.rs_gh{
+    width: 90px;
+    height: 41px;
+    margin: auto;
 }
