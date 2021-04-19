@@ -2,6 +2,7 @@ body{
     font-family: 'Cormorant Garamond', serif;
     background-color: #ffff;
     font-size: 14px;
+    /* width: 100%; */
 }
 .wrapper{
     max-width: 1110px;
@@ -223,7 +224,7 @@ h4{
     margin: auto;
     padding-top: 12px;
     padding-left: 33px;
-    background-color: #F5F5F5;
+    /* background-color: #F5F5F5; */
 }
 
 .rs_gh{
